@@ -1,0 +1,125 @@
+{
+  "/Users/cocos/FirstProject2D/assets/BG.jpeg": {
+    "time": 1630487275988.7595,
+    "uuid": "21a77d3c-33a1-4c4e-bf23-b46e555044d3",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/BG.jpeg.meta": {
+    "time": 1630487276004.3127
+  },
+  "/Users/cocos/FirstProject2D/assets/Images.meta": {
+    "time": 1630487286254.0588
+  },
+  "/Users/cocos/FirstProject2D/assets/Scripts": {
+    "time": 1630490000685.964,
+    "uuid": "e06d8fd2-d7a0-4bdc-af70-8b8ccd981eae",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Scripts.meta": {
+    "time": 1630487293810.2078
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures": {
+    "time": 1630489767707.8306,
+    "uuid": "420c36c5-da36-4590-8662-99ff0b8f5768",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures.meta": {
+    "time": 1630487304186.144
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/BG.jpeg.meta": {
+    "time": 1630487352538.66
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/BG.jpeg": {
+    "time": 1630487352526.312,
+    "uuid": "21a77d3c-33a1-4c4e-bf23-b46e555044d3",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/ground.png": {
+    "time": 1630487405823.048,
+    "uuid": "f8c095ff-2829-4d17-b60f-0500e36fc3cd",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/ground.png.meta": {
+    "time": 1630487405845.1536
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/tree.png": {
+    "time": 1630488102687.8386,
+    "uuid": "f2bfd5ab-c6eb-41f7-a4fd-c48053e627b1",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/tree.png.meta": {
+    "time": 1630488102751.7053
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/play2.png": {
+    "time": 1630488119083.7407,
+    "uuid": "813586e4-e055-4bae-a801-1806c51c7080",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/play2.png.meta": {
+    "time": 1630488119092.291
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/bush.png": {
+    "time": 1630488135135.5552,
+    "uuid": "9cba1dcd-7fc8-4b1e-bb8e-7e2f11d63f19",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/bush.png.meta": {
+    "time": 1630488135161.0781
+  },
+  "/Users/cocos/FirstProject2D/assets/Scenes": {
+    "time": 1630489112291.8733,
+    "uuid": "4d419cc1-c0aa-4ef9-a449-07764a82066f",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Scenes.meta": {
+    "time": 1630488497019.665
+  },
+  "/Users/cocos/FirstProject2D/assets/NewScene.scene": {
+    "time": 1630488869823.6658,
+    "uuid": "372696df-c378-4088-966a-0f6fead2841a",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/NewScene.scene.meta": {
+    "time": 1630488869825.6497
+  },
+  "/Users/cocos/FirstProject2D/assets/Scenes/NewScene.scene.meta": {
+    "time": 1630488869825.6497
+  },
+  "/Users/cocos/FirstProject2D/assets/Scenes/NewScene.scene": {
+    "time": 1630492938447.621,
+    "uuid": "372696df-c378-4088-966a-0f6fead2841a",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/ExampleScene.scene": {
+    "time": 1630489105481.435,
+    "uuid": "3cb3c860-daf2-4e43-8e7a-3f8a25f273b0",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/ExampleScene.scene.meta": {
+    "time": 1630489105483.719
+  },
+  "/Users/cocos/FirstProject2D/assets/Scenes/ExampleScene.scene.meta": {
+    "time": 1630489105483.719
+  },
+  "/Users/cocos/FirstProject2D/assets/Scenes/ExampleScene.scene": {
+    "time": 1630492355221.935,
+    "uuid": "3cb3c860-daf2-4e43-8e7a-3f8a25f273b0",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/Zombie.png": {
+    "time": 1630489767707.3958,
+    "uuid": "4c52b8a4-5319-44c8-818a-c8d9f1bd66a5",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Textures/Zombie.png.meta": {
+    "time": 1630489767714.8354
+  },
+  "/Users/cocos/FirstProject2D/assets/Scripts/movement.ts": {
+    "time": 1630492169014.195,
+    "uuid": "b1b6d01e-d2ec-432e-ac79-3fcea634f303",
+    "missing": false
+  },
+  "/Users/cocos/FirstProject2D/assets/Scripts/movement.ts.meta": {
+    "time": 1630490000686.6504
+  }
+}

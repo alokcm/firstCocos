@@ -1,0 +1,96 @@
+{
+  "gizmos-infos": {
+    "is2D": true,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2,
+    "isGridVisible": true
+  },
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        },
+        "ParticleSystem": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  },
+  "camera-infos": {
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": 480,
+        "y": 320,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": -10,
+        "y": 10,
+        "z": 10
+      }
+    },
+    "372696df-c378-4088-966a-0f6fead2841a": {
+      "position": {
+        "x": 455.4559821037544,
+        "y": 395.73582665127213,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": -10,
+        "y": 10,
+        "z": 10
+      }
+    },
+    "3cb3c860-daf2-4e43-8e7a-3f8a25f273b0": {
+      "position": {
+        "x": 550.4112449253623,
+        "y": 338.1091699403597,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": -10,
+        "y": 10,
+        "z": 10
+      }
+    }
+  },
+  "camera-uuids": [
+    "3cb3c860-daf2-4e43-8e7a-3f8a25f273b0"
+  ]
+}

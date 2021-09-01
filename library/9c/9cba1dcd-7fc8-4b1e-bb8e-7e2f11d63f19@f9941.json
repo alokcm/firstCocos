@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bush",
+    "atlas": "",
+    "rect": {
+      "x": 21,
+      "y": 22,
+      "width": 1003,
+      "height": 1240
+    },
+    "offset": {
+      "x": 10.5,
+      "y": 19.5
+    },
+    "originalSize": {
+      "width": 1024,
+      "height": 1323
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9cba1dcd-7fc8-4b1e-bb8e-7e2f11d63f19@6c48a",
+    "packable": true
+  }
+}
